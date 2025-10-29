@@ -1,4 +1,4 @@
-# 🏷️ **Projektname: Adidas Verkaufsanalyse 2020–2021 (USA)**
+# 🏷️ **Projektname: Adidas Verkaufsanalyse 2020 - 2021 (USA)**
 
 Dieses Projekt untersucht die Verkaufs- und Profitabilitätsdaten von **Adidas** auf dem US-Markt in den Jahren **2020–2021**. 
 Ziel ist es, zentrale **Wachstumstreiber** und **potenzielle Risiken** zu identifizieren, um **datenbasierte Handlungsempfehlungen** für eine nachhaltige Wachstumsstrategie abzuleiten.
@@ -44,8 +44,8 @@ Im Jahr **2021** erzielte Adidas in den USA ein außergewöhnliches Wachstum:
 
 ## 📊 **Dashboard**
 
-![Dashboard](./images/dashboard_1)
-![Dashboard](./images/dashboard_2)
+![Dashboard](./images/dashboard_1.png)
+![Dashboard](./images/dashboard_2.png)
 ---
 
 ## 🧭 **Strategische Empfehlungen**
