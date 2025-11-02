@@ -84,5 +84,5 @@ Im Jahr **2021** erzielte Adidas in den USA ein außergewöhnliches Wachstum:
 ## 📁 **Projektergebnisse**
 
 [➡ **Vollständiger Analysebericht (PDF)**](./adidas-usa-sales-report.pdf)  
-[➡ **Interaktives Power BI-Dashboard**](./adidas sales analysis.pbix)
+[➡ **Interaktives Power BI-Dashboard**](./"adidas sales analysis.pbix")
 
