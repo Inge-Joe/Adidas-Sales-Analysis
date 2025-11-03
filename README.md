@@ -51,6 +51,7 @@ Im Jahr **2021** erzielte Adidas in den USA ein außergewöhnliches Wachstum:
 ## 🧭 **Strategische Empfehlungen**
 
 ### 1️⃣ **Stärkung der Bestandsmärkte (Gruppe A)**  
+- Prioritäre Analyse der Produktallokation, da die flächendeckenden Rückgänge auf ein mögliches systematisches Lieferkettenproblem hindeuten.
 - Optimierung von Preis- und Kanalstrategien  
 - **Ziel:** Marktanteil stabilisieren und Profitabilität wiederherstellen  
 
